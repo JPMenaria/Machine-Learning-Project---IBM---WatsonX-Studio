@@ -1,7 +1,11 @@
+project snapshot :
+
+
+
 📝 Project Overview
 This project leverages the AutoAI capabilities of IBM Watson Studio to build and evaluate a machine learning model. The objective is to predict a "Value" based on several demographic and indicator features from the provided dataset. The project automatically generated and tested multiple pipelines, ultimately selecting an XGB Regressor as the top-performing model.
 
-There is a discrepancy between the project title, "Improved Source of Drinking Machine learning Project", and the dataset's content, which is related to mobile phone usage statistics in India. The model and analysis are based on the mobile phone usage data.
+
 
 💾 Dataset
 The model was trained on the Improved Source of Drinking Water.csv dataset.
